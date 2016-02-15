@@ -1,0 +1,51 @@
+<header class="site-header">
+
+  <div class="container">
+
+    <nav class="navbar navbar-default">
+
+      <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              {% if page.url == '/index.html' %}
+                <li class="active"><a href="{{ site.baseurl }}/">Domů</a></li>
+              {% else %}
+                <li><a href="{{ site.baseurl }}/">Domů</a></li>
+              {% endif %}
+              {% if page.url == '/prednasky/index.html' %}
+                <li class="active"><a href="{{ site.baseurl }}/prednasky/">Přednášky</a></li>
+              {% else %}
+                <li><a href="{{ site.baseurl }}/prednasky/">Přednášky</a></li>
+              {% endif %}              
+              {% if page.url == '/cviceni/index.html' %}
+                <li class="active"><a href="{{ site.baseurl }}/cviceni/">Cvičení</a></li>
+              {% else %}
+                <li><a href="{{ site.baseurl }}/cviceni/">Cvičení</a></li>
+              {% endif %}
+              {% if page.url == '/zakonceni/index.html' %}
+                <li class="active"><a href="{{ site.baseurl }}/zakonceni/">Zakončení</a></li>
+              {% else %}
+                <li><a href="{{ site.baseurl }}/zakonceni/">Zakončení</a></li>
+              {% endif %}
+              {% if page.url == '/kontakty/index.html' %}
+                <li class="active"><a href="{{ site.baseurl }}/kontakty/">Kontakty</a></li>
+              {% else %}
+                <li><a href="{{ site.baseurl }}/kontakty/">Kontakty</a></li>
+              {% endif %}                
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+    </nav>
+
+  </div>
+
+</header>
