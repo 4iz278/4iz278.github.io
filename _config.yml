@@ -1,0 +1,13 @@
+# Site settings
+title: 4IZ278 – Webové aplikace
+email: jirka@kosek.cz
+description: > # this means to ignore newlines until "baseurl:"
+  Stránky s užitečnými informacemi pro studenty předmětu
+  Webové aplikace (4IZ278) na VŠE Praha.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://4iz278.github.io" # the base hostname & protocol for your site
+twitter_username: 4iz278
+github_username:  4iz278
+
+# Build settings
+markdown: kramdown
