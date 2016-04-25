@@ -16,13 +16,18 @@ Přibližná náplň cvičení:
   * řetězcové funkce
   * include, require
   * GET, POST
+  * čtení a zápis souborů
 3. [Objekty v PHP](https://github.com/4iz278/cviceni/tree/master/03-objekty)
+  * práce s file systémem
   * definice tříd, rozhraní atd.
   * namespaces
+  * výjimky
 4. [Objekty v PHP II., validace formulářů](https://github.com/4iz278/cviceni/tree/master/04-objekty-II-validace)
   * class loader
-  * praktická aplikace
+  * magické metody objektů
   * validace formulářů
+  * composer
+  * praktická aplikace
 5. [SQL](https://github.com/4iz278/cviceni/tree/master/05-sql)
   * Opakování základů SQL
   * MariaDB na serveru eso.vse.cz
@@ -37,17 +42,19 @@ Přibližná náplň cvičení:
   * autorizace, autentizace
   * lokální přihlašování
 9. [Uživatelé a DB](https://github.com/4iz278/cviceni/tree/master/09-uzivatele-db)
-  * OAuth, OpenID
+  * víceuživatelský přístup k DB 
+  * OAuth
   * datum a čas
-  * praktická aplikace na práci s databází
-10. [JSON, XML](https://github.com/4iz278/cviceni/tree/master/10-json-xml)
-  * strukturované datové formáty
-  * víceuživatelský přístup k DB
-11. [CRUD aplikace](https://github.com/4iz278/cviceni/tree/master/11-crud)
-  * aplikace s REST API
-12. [Jiné výstupy, SEO URL](https://github.com/4iz278/cviceni/tree/master/12-vystupy-seo)
-  * mPDF, grafické výstupy
+10. [MVC, SEO URL, poslání e-mailu](https://github.com/4iz278/cviceni/tree/master/10-mvc)
+  * návrhový vzor MVC
+  * objektová tvorba aplikací
   * .htaccess
   * posílání e-mailů
+11. [JSON, XML](https://github.com/4iz278/cviceni/tree/master/10-json-xml)
+  * strukturované datové formáty
+  * AJAX
+  * mPDF
+12. [CRUD aplikace](https://github.com/4iz278/cviceni/tree/master/11-crud)
+  * aplikace s REST API
 
 *Obsah jednotlivých cvičení se může lišit v závisloti na rychlosti jednotlivých skupin a harmonogramu aktuálního semestru.*
