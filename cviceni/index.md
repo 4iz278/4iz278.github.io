@@ -50,11 +50,11 @@ Přibližná náplň cvičení:
   * objektová tvorba aplikací
   * .htaccess
   * posílání e-mailů
-11. [JSON, XML](https://github.com/4iz278/cviceni/tree/master/10-json-xml)
+11. [JSON, XML](https://github.com/4iz278/cviceni/tree/master/11-json-xml)
   * strukturované datové formáty
   * AJAX
   * mPDF
-12. [CRUD aplikace](https://github.com/4iz278/cviceni/tree/master/11-crud)
+12. [CRUD aplikace](https://github.com/4iz278/cviceni/tree/master/12-crud)
   * aplikace s REST API
 
 *Obsah jednotlivých cvičení se může lišit v závisloti na rychlosti jednotlivých skupin a harmonogramu aktuálního semestru.*
