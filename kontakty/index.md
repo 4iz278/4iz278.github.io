@@ -13,9 +13,9 @@ KH viz <http://kosek.cz/vyuka/#kh>
 
 ## Cvičení ##
 
-### Ing. Jiří Hradil ###
-
-KH a kontakt viz: <https://isis.vse.cz/auth/lide/clovek.pl?id=15099>
+[//]: # ### Ing. Jiří Hradil ###
+[//]: #
+[//]: # KH a kontakt viz: <https://isis.vse.cz/auth/lide/clovek.pl?id=15099>
 
 ### Ing. et Ing. Stanislav Vojíř ###
 
