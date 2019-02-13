@@ -17,10 +17,14 @@ KH viz <http://kosek.cz/vyuka/#kh>
 [//]: #
 [//]: # KH a kontakt viz: <https://isis.vse.cz/auth/lide/clovek.pl?id=15099>
 
+### Ing. Viet Bach Nguyen ###
+
+KH a kontakt viz: <https://isis.vse.cz/auth/lide/clovek.pl?id=115569>
+
 ### Ing. et Ing. Stanislav Vojíř ###
 
 KH a kontakt viz: <https://isis.vse.cz/auth/lide/clovek.pl?id=50712>
 
-### doc. Ing. Vilém Sklenák, CSc. ###
-
-KH a kontakt viz: <https://isis.vse.cz/auth/lide/clovek.pl?id=172>
+[//]: # ### doc. Ing. Vilém Sklenák, CSc. ###
+[//]: # 
+[//]: # KH a kontakt viz: <https://isis.vse.cz/auth/lide/clovek.pl?id=172>
