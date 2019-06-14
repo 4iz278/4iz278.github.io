@@ -12,6 +12,8 @@ Podmínkou pro úspěšné obsolvování předmětu je splnění následujícíc
 Z každého z požadavků 1–2 musíte navíc získat alespoň 50 % z
 maximálního počtu bodů.
 
+Výslednou známku vám do InSIS zapíše cvičící.
+
 <a id="test"></a>
 
 ## Závěrečný test ##
