@@ -5,8 +5,7 @@ author: Jirka Kosek
 ---
 
 V době uzavření školy pro prezenční výuku (viz
-https://www.vse.cz/aktuality/mimoradna-opatreni-vse-v-souvislosti-s-pokyny-ministerstva-zdravotnictvi-cr-platna-od-11-3-2020/
-)
+https://www.vse.cz/aktuality/mimoradna-opatreni-vse-v-souvislosti-s-pokyny-ministerstva-zdravotnictvi-cr-platna-od-11-3-2020/)
 bude výuka probíhat následujícím způsobem:
 
 * Přednášky bude možné v normálním čase sledovat na YouTube a poté se
