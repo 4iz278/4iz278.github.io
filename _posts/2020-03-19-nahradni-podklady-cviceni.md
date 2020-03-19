@@ -12,7 +12,7 @@ V době [uzavření školy pro prezenční výuku](https://www.vse.cz/aktuality/
 
 ## Kde a kdy hledat podklady?
 Podklady najdete na GitHubu, oproti běžným materiálům jsou však ty pro samostudium výrazně rozšířené.
-Počínaje materiály číslo 04 najdete všechny soubory na adrese: **[https://github.com/4iz278/cviceni/tree/domaci-vyuka-LS-2020])(https://github.com/4iz278/cviceni/tree/domaci-vyuka-LS-2020)**
+Počínaje materiály číslo 04 najdete všechny soubory na adrese: **[https://github.com/4iz278/cviceni/tree/domaci-vyuka-LS-2020](https://github.com/4iz278/cviceni/tree/domaci-vyuka-LS-2020)**
 
 Materiály ke cvičením v daném týdnu jsou vždy zveřejněny před plánovaným časem cvičení. Zároveň obdržíte upozornění e-mailem.
 
