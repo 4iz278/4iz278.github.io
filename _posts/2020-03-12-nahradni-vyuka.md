@@ -8,10 +8,10 @@ V době uzavření školy pro prezenční výuku (viz
 https://www.vse.cz/aktuality/mimoradna-opatreni-vse-v-souvislosti-s-pokyny-ministerstva-zdravotnictvi-cr-platna-od-11-3-2020/)
 bude výuka probíhat následujícím způsobem:
 
-* Přednášky bude možné v normálním čase sledovat na YouTube a poté se
-  podívat i na jejich záznam. Odkazy na sledování naleznete v
-  [programu přednášek](/prednasky/). Během on-line přenosu bude možné
-  pokládat dotazy.
+* Přednášky bude možné sledovat ze záznamu na YouTube (přímý přenos se
+  technicky neosvědčil). Odkazy na sledování naleznete v
+  [programu přednášek](/prednasky/). Každý pátek od 10:30 pak bude
+  možné pokládat dotazy během telekonference.
 
 * Pro cvičení budou dostupné podklady pro samostatnou práci a bude
   zajištěna možnost konzultace se cvičícími. O tom, jak to bude
