@@ -4,7 +4,7 @@ title:  "Závěrečný test"
 ---
 
 Test má písemnou formu, odpovědi se píší vlastní rukou na papír se
-zadáním testu. V testu so objeví otázky z témat probíraných na
+zadáním testu. V testu se objeví otázky z témat probíraných na
 přednášce.
 
 ## Přihlašování, hodnocení a opravy
