@@ -3,6 +3,10 @@ layout: page
 title:  "Závěrečný test"
 ---
 
+Test má písemnou formu, odpovědi se píší vlastní rukou na papír se
+zadáním testu. V testu so objeví otázky z témat probíraných na
+přednášce.
+
 ## Přihlašování, hodnocení a opravy
 
 Na termín testu je nutné se přihlásit pomocí systému InSIS. Pokud se
