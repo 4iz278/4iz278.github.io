@@ -13,9 +13,9 @@ Na termín testu je nutné se přihlásit pomocí systému InSIS. Pokud se
 bez omluvy nedostavíte ani na jeden z termínů testu, je vám předmět
 automaticky klasifikován jako "nedostavil(a) se".
 
-Pokud z testu získáte méně než 24 bodů, je možné psát opravu. Na
+Pokud z testu získáte méně než 18 bodů, je možné psát opravu. Na
 opravný test se již pomocí InSISu nepřihlašuje. Z opravného testu lze
-získat maximálně 24 bodů.
+získat maximálně 18 bodů.
 
 Test hodnotí přednášející.
 
