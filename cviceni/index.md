@@ -3,10 +3,6 @@ layout: page
 title:  "Cvičení"
 ---
 
-
-**S ohledem na aktuální průběh letního semestru 2019/2020 a preventivní opatření kvůli coronaviru probíhá výuka distanční formou.**
-**[Aktuální podklady naleznete zde](https://github.com/4iz278/cviceni/tree/domaci-vyuka-LS-2020)**
-
 ---
 
 Podrobnou náplň jednotlivých cvičení a ukázkové příklady najdete
