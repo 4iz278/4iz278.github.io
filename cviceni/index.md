@@ -28,12 +28,18 @@ Jednotlivé tématické bloky:
    * definice tříd, rozhraní atd.
    * namespaces
    * trait, enum
-6. **[Objekty v PHP II.](https://github.com/4iz278/cviceni/tree/master/05-objekty)**
+6. **[Objekty v PHP II.](https://github.com/4iz278/cviceni/tree/master/06-objekty-II)**
    * magické metody objektů
    * class loader
    * composer
 7. **[Chyby a výjimky](https://github.com/4iz278/cviceni/tree/master/07-vyjimky)**
    * error vs. exception
    * try-catch
+8. **[SQL a databáze](https://github.com/4iz278/cviceni/tree/master/08-sql-databaze)**
+   * opakování základů SQL
+   * MariaDB na serveru eso.vse.cz
+   * phpMyAdmin
+   * práce s databází z PHP
+   * tvorba jednoduché databázové aplikace
 
 *Podklady jsou v tomto semestru výrazně aktualizovány - tj. postupně budou další bloky přibývat.*
