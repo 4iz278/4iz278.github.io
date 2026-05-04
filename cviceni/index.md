@@ -41,36 +41,36 @@ Jednotlivé tématické bloky:
    * phpMyAdmin
    * práce s databází z PHP
    * tvorba jednoduché databázové aplikace
-9. **[Cookies, session](09-cookies-session)**
+9. **[Cookies, session](https://github.com/4iz278/cviceni/tree/master/09-cookies-session)**
    * ukázková aplikace na práci s databází
    * cookies
    * session
    * ukázková aplikace na práci se session a cookies
-10. **[Uživatelské účty](10-uzivatele)**
+10. **[Uživatelské účty](https://github.com/4iz278/cviceni/tree/master/10-uzivatele)**
     * autorizace, autentizace
     * HTTP autentizace
     * lokální přihlašování uživatelů
-11. **[Uživatelské účty II., maily](11-uzivatele-II)**
+11. **[Uživatelské účty II., maily](https://github.com/4iz278/cviceni/tree/master/11-uzivatele-II)**
     * posílání mailů
     * obnova zapomenutého hesla
-12. **[Uživatelské účty III - OAuth](12-uzivatele-III)**
+12. **[Uživatelské účty III - OAuth](https://github.com/4iz278/cviceni/tree/master/12-uzivatele-III)**
     * přihlašování přes OAuth2
     * praktická ukázka přihlášení Google účtem
-13. **[Datum a čas, víceuživatelský přístup k DB](13-datetime-uzivatele-db)**
+13. **[Datum a čas, víceuživatelský přístup k DB](https://github.com/4iz278/cviceni/tree/master/13-datetime-uzivatele-db)**
     * datum a čas
     * víceuživatelský přístup k DB - zamykání záznamů
-14. **[JSON, XML a práce s externími daty](14-json-xml-curl)**
+14. **[JSON, XML a práce s externími daty](https://github.com/4iz278/cviceni/tree/master/14-json-xml-curl)**
     * práce s JSON a XML
     * načítání externích dat, CURL
-15. **[REST API](15-rest-api)**
+15. **[REST API](https://github.com/4iz278/cviceni/tree/master/15-rest-api)**
     * základní typy API
     * tvorba vlastního REST API
     * využití GraphQL API
     * malá ukázka AJAX aplikace
-16. **[htaccess](16-htaccess)**
+16. **[htaccess](https://github.com/4iz278/cviceni/tree/master/16-htaccess)**
     * mod rewrite, SEO URL
     * vlastní chybové dokumenty
     * úprava dalších nastavení
-17. **[MVC, objektově psané aplikace](17-mvc)**
+17. **[MVC, objektově psané aplikace](https://github.com/4iz278/cviceni/tree/master/17-mvc)**
     * návrhový vzor MVC
     * objektová tvorba aplikací
